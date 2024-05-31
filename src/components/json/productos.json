@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "nombre": "Atlanta Falcons NFL22 Sideline 9TWENTY",
+    "imagen": "/img/atlanta-falcons.jpg",
+    "precio": 41500,
+    "categoria": "nfl",
+    "stock": 21
+  },
+  {
+    "id": 2,
+    "nombre": "Buffalo Bills NFL22 Sideline History 9TWENTY",
+    "imagen": "/img/buffalo-bills.jpg",
+    "precio": 42900,
+    "categoria": "nfl",
+    "stock": 50
+  },
+  {
+    "id": 3,
+    "nombre": "Chicago Bulls 9FORTY The League",
+    "imagen": "/img/bulls.jpg",
+    "precio": 43700,
+    "categoria": "nba",
+    "stock": 24
+  },
+  {
+    "id": 4,
+    "nombre": "Cleveland Cavaliers The League 9FORTY",
+    "imagen": "/img/cleveland.jpg",
+    "precio": 43800,
+    "categoria": "nba",
+    "stock": 35
+  },
+  {
+    "id": 5,
+    "nombre": "Denver Nuggets 9FORTY The League",
+    "imagen": "/img/denver.jpg",
+    "precio": 41000,
+    "categoria": "nba",
+    "stock": 46
+  },
+  {
+    "id": 6,
+    "nombre": "Los Angeles Lakers Home Field 9FORTY",
+    "imagen": "/img/lakers-blanca.jpg",
+    "precio": 42600,
+    "categoria": "nba",
+    "stock": 61
+  },
+  {
+    "id": 7,
+    "nombre": "New York Giants NFL22 Sideline 9TWENTY",
+    "imagen": "/img/new-york-giants.jpg",
+    "precio": 43800,
+    "categoria": "nfl",
+    "stock": 26
+  },
+  {
+    "id": 8,
+    "nombre": "New England Patriots 9FIFTY Stretch Snap Black on Black",
+    "imagen": "/img/patriots.jpg",
+    "precio": 49999,
+    "categoria": "nfl",
+    "stock": 23
+  },
+  {
+    "id": 9,
+    "nombre": "Seattle Seahawks NFL22 Sideline 9TWENTY",
+    "imagen": "/img/seattle-seahawks.jpg",
+    "precio": 42499,
+    "categoria": "nfl",
+    "stock": 65
+  },
+  {
+    "id": 10,
+    "nombre": "San Antonio Spurs NBA Back Half 2023 9TWENTY",
+    "imagen": "/img/spurs-blanca.jpg",
+    "precio": 42499,
+    "categoria": "nba",
+    "stock": 43
+  },
+  {
+    "id": 11,
+    "nombre": "Toronto Raptors 9FORTY The League",
+    "imagen": "/img/toronto.jpg",
+    "precio": 43699,
+    "categoria": "nba",
+    "stock": 21
+  },
+  {
+    "id": 12,
+    "nombre": "Washington 2022 NFL22 Sideline 39THIRTY",
+    "imagen": "/img/wash-nf.jpg",
+    "precio": 49999,
+    "categoria": "nfl",
+    "stock": 71
+  }
+]
