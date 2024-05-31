@@ -11,7 +11,7 @@ const Carrousel = () => {
             <div className="carousel-inner">
               <div className="carousel-item active">
                 <img
-                  src="../public/carru4.jpg"
+                  src="/img/carru4.jpg"
                   className="d-block w-100"
                   alt="..."
                   style={{ height: "400px", objectFit: "cover" }}
@@ -19,7 +19,7 @@ const Carrousel = () => {
               </div>
               <div className="carousel-item">
                 <img
-                  src="../public/carru5.jpg"
+                  src="/img/carru5.jpg"
                   className="d-block w-100"
                   alt="..."
                   style={{ height: "400px", objectFit: "cover" }}
@@ -27,7 +27,7 @@ const Carrousel = () => {
               </div>
               <div className="carousel-item">
                 <img
-                  src="../public/carru6.jpg"
+                  src="/img/carru6.jpg"
                   className="d-block w-100"
                   alt="..."
                   style={{ height: "400px", objectFit: "cover" }}
